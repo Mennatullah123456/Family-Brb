@@ -1,0 +1,35 @@
+.overflowingtables{
+    
+}
+.plusometer{
+
+}
+
+.table{
+    margin-bottom: 0px;
+}
+
+.children{
+    gap: 0.5rem;
+}
+
+.children>div{
+    width: 70px;
+}
+.children>div img{
+    width: 80%;
+}
+.children>div p{
+    font-size: 0.7rem;
+    white-space: nowrap;
+    width: 50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.children-modal .children-modal-inner p{
+    font-size: 0.8rem;
+}
+.children-modal .children-modal-inner .chillren-inner-outer p:first-child{
+    margin-top: 1rem;
+}
